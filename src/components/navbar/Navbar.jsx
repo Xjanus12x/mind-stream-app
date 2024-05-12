@@ -2,7 +2,7 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className="container flex justify-between p-5 mx-auto">
+    <nav className="container flex justify-between p-5 mx-auto items-center">
       <h1 className="text-lg font-semibold leading-6">Your Name</h1>
       <ul className="hidden gap-[0.875rem] sm:flex">
         <li className="p-2">Blog</li>
